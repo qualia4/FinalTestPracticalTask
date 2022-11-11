@@ -1,0 +1,15 @@
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/bin/Debug/net6.0/FinalTestPracticalTask
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/bin/Debug/net6.0/FinalTestPracticalTask.deps.json
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/bin/Debug/net6.0/FinalTestPracticalTask.runtimeconfig.json
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/bin/Debug/net6.0/FinalTestPracticalTask.dll
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/bin/Debug/net6.0/ref/FinalTestPracticalTask.dll
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/bin/Debug/net6.0/FinalTestPracticalTask.pdb
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/obj/Debug/net6.0/FinalTestPracticalTask.csproj.AssemblyReference.cache
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/obj/Debug/net6.0/FinalTestPracticalTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/obj/Debug/net6.0/FinalTestPracticalTask.AssemblyInfoInputs.cache
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/obj/Debug/net6.0/FinalTestPracticalTask.AssemblyInfo.cs
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/obj/Debug/net6.0/FinalTestPracticalTask.csproj.CoreCompileInputs.cache
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/obj/Debug/net6.0/FinalTestPracticalTask.dll
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/obj/Debug/net6.0/ref/FinalTestPracticalTask.dll
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/obj/Debug/net6.0/FinalTestPracticalTask.pdb
+/Users/qualiaaa/RiderProjects/FinalTestPracticalTask/FinalTestPracticalTask/obj/Debug/net6.0/FinalTestPracticalTask.genruntimeconfig.cache
